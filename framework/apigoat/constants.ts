@@ -1,0 +1,6 @@
+export const CART_COOKIE = 'apigoat.cart'
+export const TOKEN_COOKIE = 'apigoat.token'
+export const CUSTOMER_COOKIE = 'apigoat.customer'
+export const API_URL = 'https://viafye.z.apigoat.com/.admin/api'
+export const API_VERSION = 'v1'
+export const LOCALE = 'en-us'
